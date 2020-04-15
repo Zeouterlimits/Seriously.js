@@ -1,6 +1,6 @@
 {
   "name": "@uehreka/seriously",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An npm version of Seriously.js",
   "main": "build/seriously.js",
   "module": "build/seriously.module.js",
