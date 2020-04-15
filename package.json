@@ -1,0 +1,24 @@
+{
+  "name": "@uehreka/seriously",
+  "version": "1.0.0",
+  "description": "An npm version of Seriously.js",
+  "main": "seriously.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisuehlinger/Seriously.js.git"
+  },
+  "author": "chris.uehlinger@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chrisuehlinger/Seriously.js/issues"
+  },
+  "homepage": "https://github.com/chrisuehlinger/Seriously.js#readme"
+}
